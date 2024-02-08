@@ -1,0 +1,115 @@
+name = "2.2"
+
+[[fatty_acids]]
+label = "G"
+description = "14:0"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 102347.981 }
+
+[[fatty_acids]]
+label = "G"
+description = "16:0"
+formula = "H32C16O2"
+data = { mag2 = 26226.632, dag1223 = 587639.944, tag123 = 8986017.817 }
+
+[[fatty_acids]]
+label = "G"
+description = "7-16:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 0.000, tag123 = 386633.775 }
+
+[[fatty_acids]]
+label = "G"
+description = "9-16:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 82939.701 }
+
+[[fatty_acids]]
+label = "G"
+description = "18:0"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 144264.269, tag123 = 497663.822 }
+
+[[fatty_acids]]
+label = "G"
+description = "16:3"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 87027.797 }
+
+[[fatty_acids]]
+label = "G"
+description = "9-18:1"
+formula = "H32C16O2"
+data = { mag2 = 2368175.476, dag1223 = 7018550.647, tag123 = 125101733.010 }
+
+[[fatty_acids]]
+label = "G"
+description = "11-18:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 71560.210, tag123 = 2594173.835 }
+
+[[fatty_acids]]
+label = "G"
+description = "18:2"
+formula = "H32C16O2"
+data = { mag2 = 2191858.421, dag1223 = 4991582.686, tag123 = 82594212.445 }
+
+[[fatty_acids]]
+label = "G"
+description = "20:0"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 260219.493 }
+
+[[fatty_acids]]
+label = "G"
+description = "18:3"
+formula = "H32C16O2"
+data = { mag2 = 380655.115, dag1223 = 782237.516, tag123 = 10575072.165 }
+
+[[fatty_acids]]
+label = "G"
+description = "11-20:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 1805535.048, tag123 = 66213007.234 }
+
+[[fatty_acids]]
+label = "G"
+description = "13-20:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 903752.616 }
+
+[[fatty_acids]]
+label = "G"
+description = "20:2"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 15311.779, tag123 = 988837.818 }
+
+[[fatty_acids]]
+label = "G"
+description = "13-22:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 36623.989, tag123 = 336005092.872 }
+
+[[fatty_acids]]
+label = "G"
+description = "15-22:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 2728067.309 }
+
+[[fatty_acids]]
+label = "G"
+description = "22:0"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 6615351.081, tag123 = 0.0 }
+
+[[fatty_acids]]
+label = "G"
+description = "22:2"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 20149.226, tag123 = 1560901.955 }
+
+[[fatty_acids]]
+label = "G"
+description = "24:1"
+formula = "H32C16O2"
+data = { mag2 = 0.0, dag1223 = 902863.184, tag123 = 47095556.364 }

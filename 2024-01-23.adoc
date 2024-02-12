@@ -2,6 +2,9 @@
 :nofooter:
 :stem:
 
-- 2024-01-23/method.adoc[Method]
-- 2024-01-23/tl.adoc[TL]
-- 2024-01-23/tag.adoc[TAG]
+- link:2024-01-23/method.adoc[Method]
+
+- link:2024-01-23/tl.adoc[TL]
+- link:2024-01-23/tag.adoc[TAG]
+- link:2024-01-23/dag.adoc[DAG]
+- link:2024-01-23/mag.adoc[MAG]

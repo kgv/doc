@@ -1,0 +1,9 @@
+include = ["**/*.utca.toml"]
+
+[formatting]
+reorder_arrays = true
+reorder_keys = true
+
+[[rule]]
+keys = ["fatty_acids.data"]
+formatting = { reorder_inline_keys = true, reorder_keys = true }

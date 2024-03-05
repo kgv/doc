@@ -1,0 +1,218 @@
+[
+    (
+        name: "14:0",
+        counter: (
+            {
+                H(One): 30,
+                C(Twelve): 15,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 13.678,
+        area: 47110.329,
+    ),
+    (
+        name: "16:0",
+        counter: (
+            {
+                H(One): 34,
+                C(Twelve): 17,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 17.489,
+        area: 7481757.683,
+    ),
+    (
+        name: "7-16:1",
+        counter: (
+            {
+                H(One): 32,
+                C(Twelve): 17,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 18.493,
+        area: 291540.584,
+    ),
+    (
+        name: "9-16:1",
+        counter: (
+            {
+                H(One): 32,
+                C(Twelve): 17,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 18.699,
+        area: 51625.065,
+    ),
+    (
+        name: "18:0",
+        counter: (
+            {
+                H(One): 38,
+                C(Twelve): 19,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 22.407,
+        area: 417247.108,
+    ),
+    (
+        name: "7,10,13-16:3",
+        counter: (
+            {
+                H(One): 28,
+                C(Twelve): 17,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 22.845,
+        area: 32911.141,
+    ),
+    (
+        name: "9-18:1",
+        counter: (
+            {
+                H(One): 36,
+                C(Twelve): 19,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 23.738,
+        area: 97261836.876,
+    ),
+    (
+        name: "11-18:1",
+        counter: (
+            {
+                H(One): 36,
+                C(Twelve): 19,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 23.91,
+        area: 2128182.8,
+    ),
+    (
+        name: "9,12-18:2",
+        counter: (
+            {
+                H(One): 34,
+                C(Twelve): 19,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 25.772,
+        area: 61931118.388,
+    ),
+    (
+        name: "20:0",
+        counter: (
+            {
+                H(One): 42,
+                C(Twelve): 21,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 27.609,
+        area: 255566.354,
+    ),
+    (
+        name: "9,12,15-18:3",
+        counter: (
+            {
+                H(One): 32,
+                C(Twelve): 19,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 28.081,
+        area: 7336106.604,
+    ),
+    (
+        name: "11-20:1",
+        counter: (
+            {
+                H(One): 40,
+                C(Twelve): 21,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 28.794,
+        area: 50987463.902,
+    ),
+    (
+        name: "13-20:1",
+        counter: (
+            {
+                H(One): 40,
+                C(Twelve): 21,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 28.974,
+        area: 717014.049,
+    ),
+    (
+        name: "11,14-20:2",
+        counter: (
+            {
+                H(One): 38,
+                C(Twelve): 21,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 30.596,
+        area: 720817.216,
+    ),
+    (
+        name: "13-22:1",
+        counter: (
+            {
+                H(One): 44,
+                C(Twelve): 23,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 33.48,
+        area: 254325426.43,
+    ),
+    (
+        name: "15-22:1",
+        counter: (
+            {
+                H(One): 44,
+                C(Twelve): 23,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 33.583,
+        area: 2340423.913,
+    ),
+    (
+        name: "13,16-22:2",
+        counter: (
+            {
+                H(One): 42,
+                C(Twelve): 23,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 34.982,
+        area: 1132276.866,
+    ),
+    (
+        name: "15-24:1",
+        counter: (
+            {
+                H(One): 48,
+                C(Twelve): 25,
+                O(Sixteen): 2,
+            },
+        ),
+        time: 37.446,
+        area: 34870733.286,
+    ),
+]

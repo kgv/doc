@@ -24,7 +24,7 @@
 
 [DCF]: https://en.wikipedia.org/wiki/Dichlorofluorescein "dichlorofluorescein"
 [CHCL_3/MeOH, 2/1, v/v]: #
-[$Гексан/Et_2O$, 1/1, v/v]: #
+[$Гексан/Et_2O$, 1/1, v/v]: ../mixtures.md#
 
 [^1]: Перерастворено в **CHCl₃**: _5 ml_
     | ID  | Масса      |

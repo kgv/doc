@@ -1,4 +1,4 @@
-# Анализ PL для **Lunaria rediviva**
+# Анализ PL **Lunaria rediviva**
 
 1. 
    1. TLC

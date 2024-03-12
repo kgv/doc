@@ -1,4 +1,4 @@
-# Анализ PL для **Lunaria rediviva**
+# Анализ PL **Lunaria rediviva**
 
 PL3 (6,5 $ml$ перерастворенные в 300 ${\mu}l$ **$CHCL_3/MeOH (2/1, v/v)$**)
 

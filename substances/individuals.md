@@ -1,43 +1,54 @@
 # Individuals
 
+## Benzene
+
+Name:
+
+- 🇬🇧: Benzene
+- 🇷🇺: Бензол
+
+Links:
+
+- <https://en.wikipedia.org/wiki/Benzene>
+
 ## $DCF$
 
-### Name
+Name:
 
 - 🇬🇧: Dichlorofluorescein
 - 🇷🇺: Дихлорфлуоресцеин
 
-### Links
+Links:
 
 - <https://en.wikipedia.org/wiki/Dichlorofluorescein>
 
 ## $PC$
 
-### Name
+Name:
 
 - 🇬🇧: Phosphatidylcholines
 
-### Links
+Links:
 
 - <https://en.wikipedia.org/wiki/Phosphatidylcholine>
 
 ## $PE$
 
-### Name
+Name:
 
 - 🇬🇧: Phosphatidylethanolamine
 
-### Links
+Links:
 
 - <https://en.wikipedia.org/wiki/Phosphatidylethanolamine>
 
 ## $PMA$
 
-### Name
+Name:
 
 - 🇬🇧: Phosphomolybdic acid
 
-### Links
+Links:
 
 - <https://en.wikipedia.org/wiki/Phosphomolybdic_acid>
 
@@ -54,12 +65,12 @@
 > [!NOTE]
 > Неразрушающий проявитель.
 
-### Name
+Name:
 
 - 🇬🇧: Primuline
 - 🇷🇺: Примулин
 
-### Links
+Links:
 
 - <https://en.wikipedia.org/wiki/Primuline>
 
@@ -73,11 +84,11 @@
 
 ## $TMSH$
 
-### Name
+Name:
 
 - 🇬🇧: Trimethylsulfonium hydroxide
 
-### Links
+Links:
 
 - <https://pubchem.ncbi.nlm.nih.gov/compound/Trimethylsulfonium-hydroxide>
 

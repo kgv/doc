@@ -13,13 +13,18 @@
 
 ## $[CHCl_3/MeOH/H_2O]$
 
+1. $[CHCl_3/MeOH/H_2O; 65/25/4, v/v/v]$
+2. $[CHCL_3/MeOH/H_2O; 30/10/1, v/v/v]$
+
 > [!IMPORTANT]  
 > Последовательность смешивания:
 > 1. $MeOH$
 > 2. $H_2O$
 > 3. $CHCl_3$
 
-1. $[CHCl_3/MeOH/H_2O; 65/25/4, v/v/v]$
+## $[CHCL_3/MeOH/Acetic\ acid/H_2O]$
+
+1. $[CHCL_3/MeOH/Acetic\ acid/H_2O; 80/9/12/2, v/v/v/v]$
 
 ## $[EtOH/H_2O]$
 
@@ -36,5 +41,10 @@
 ## $[PMA/EtOH/H_2O]$
 
 1. $[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4 ,m/m]$
-   1. [🔗](#etohh_2o8020vv)$[EtOH/H_2O; 80/20, v/v]$: 100 $ml$ = 87.28 $g$
-   2. $PMA$: 3.4912 $g$
+   1. [🔗](#etohh_2o8020vv)$[EtOH/H_2O; 80/20, v/v]$: 100 $mL$ = 87.28 $g$
+   2. [🔗][pma]$PMA$: 3.4912 $g$
+
+> [!NOTE]  
+> Разрушающий проявитель.
+
+[pma]: individuals.md#pma

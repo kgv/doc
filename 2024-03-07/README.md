@@ -1,31 +1,25 @@
-# Анализ PL **Lunaria rediviva**
+# Анализ [🔗][pl]$PL$ **Lunaria rediviva** методом двумерного TLC на одной пластинке
 
-PL3 (6,5 $ml$ перерастворенные в 300 ${\mu}l$ **$CHCL_3/MeOH (2/1, v/v)$**)
+$PL_3$: 6,5 $mL$, перерастворенные в 300 ${\mu}L$ [🔗][chcl_3meoh]$[CHCL_3/MeOH; 2/1, v/v]$
 
-1. TLC 
-   1. **Silica gel 60** (Supelco)
+1. TLC
+   1. $Silica\ gel\ 60$ (Supelco)
    2. 
-      1. **$CHCL_3/MeOH (2/1, v/v)$**: ~10 $ml$ (подтягивание пятна)
-      2. **$CHCL_3/MeOH/H_2O (30/10/1, v/v/v)$**: ~20 $ml$ (первое измерение)
-      3. **$CHCL_3/MeOH/Acetic\ acid/H_2O (80/9/12/2, v/v/v/v)$** (второе измерение)
-   2. Опрыскать **$Примулином$**
-   3. Разделить на 11 проб
+      1. [🔗][chcl_3meoh]$[CHCL_3/MeOH; 2/1, v/v]$: ~10 $mL$ (подтягивание пятна)
+      2. [🔗][chcl_3meohh_2o]$[CHCL_3/MeOH/H_2O; 30/10/1, v/v/v]$: ~20 $mL$ (первое измерение)
+      3. [🔗][chcl_3meohacetic-acidh_2o]$[CHCL_3/MeOH/Acetic\ acid/H_2O; 80/9/12/2, v/v/v/v]$ (второе измерение)
+   3. Опрыскать [🔗][primuline]$Primuline$
+   4. Разделить на 11 проб
 
 2. Для каждой пробы:
-   1. Добавить **$TMS$**:
-      * 1,4,5,6: 200 ${\mu}l$
-      * 2,3,7,8,9,10,11: 400 ${\mu}l$
+   1. Добавить [🔗][tmsh]$TMSH$:
+      * 1,4,5,6: 200 ${\mu}L$
+      * 2,3,7,8,9,10,11: 400 ${\mu}L$
    2. Греть при 50 $\degree C$: 30 $min$
 
-1 | 47
-2 | 187
-3 | 270
-4 | 580
-5 | 540
-6 | 541
-7 | 566
-8 | 564
-9 | 514
-
-10 | 405
-11 | 229
+[chcl_3meoh]: ../substances/mixtures.md#chcl_3meoh
+[chcl_3meohacetic-acidh_2o]: ../substances/mixtures.md#chcl_3meohacetic-acidh_2o
+[chcl_3meohh_2o]: ../substances/mixtures.md#chcl_3meohh_2o
+[pl]: ../substances/individuals.md#pl
+[primuline]: ../substances/individuals.md#primuline
+[tmsh]: ../substances/individuals.md#tmsh

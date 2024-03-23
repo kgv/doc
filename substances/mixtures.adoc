@@ -1,11 +1,6 @@
 = Mixtures
 :nofooter:
 :note-caption: :information_source:
-:stem:
-
-== $[CH_3CN/MeOH/H_2SO_4,v/v/v]$
-
-== $[CHCl_3/MeOH,v/v]$
 
 == $[CHCl_3/MeOH/H_2O,v/v/v]$
 
@@ -17,20 +12,9 @@
 3. $CHCl_3$
 ====
 
-== $[CHCL_3/MeOH/Acetic\ acid/H_2O,v/v/v/v]$
-
-== $[EtOH/H_2O,v/v]$
-
-== $[Hexane/Et_2O,v/v]$
-
-== $[Hexane/Et_2O/AcOH,v/v/v]$
-
-== $[PMA/EtOH/H_2O,v/v]$
-
-== $[PMA/[EtOH/H_2O;80/20,v/v],m/m]$
+== $[PMA/[EtOH/H_2O;80/20,v/v];100/4,m/m]$
 
 NOTE: Разрушающий проявитель.
 
-* $[PMA/[EtOH/H_2O;80/20,v/v];100/4,m/m]$
-   .. link:#etohh_2ovv[🔗] $[EtOH/H_2O,v/v]$(80/20): 100 $mL$ = 87.28 $g$
-   .. link:individuals.md#pma[🔗] $PMA$: 3.4912 $g$
+. $[EtOH/H_2O;80/20,v/v]$: 100 $mL$ = 87.28 $g$
+. link:individuals.md#pma[🔗] $PMA$: 3.4912 $g$

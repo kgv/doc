@@ -1,12 +1,11 @@
-= stem:[H_2SO_4 + MeOH] TAG
+= $[H_2SO_4/MeOH]$ TAG
 :nofooter:
-:stem:
 :table-caption: TAG
 
 .1
 [cols="3*"]
 |===
-|ID|stem:[t_R]|stem:[s]
+|ID|$t_R$|$s$
 
 |Methyl tetradecanoate|13.661|21518.005
 |Hexadecanoic acid, methyl ester|17.472|2071137.488
@@ -27,7 +26,7 @@
 .2
 [cols="3*"]
 |===
-|ID|stem:[t_R]|stem:[s]
+|ID|$t_R$|$s$
 
 |Methyl tetradecanoate|13.687|30608.107
 |Hexadecanoic acid, methyl ester|17.498|2707946.880
@@ -48,7 +47,7 @@
 .3
 [cols="3*"]
 |===
-|ID|stem:[t_R]|stem:[s]
+|ID|$t_R$|$s$
 
 |Methyl tetradecanoate|13.678|51532.376
 |Hexadecanoic acid, methyl ester|17.498|4641768.929

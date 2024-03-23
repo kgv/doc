@@ -1,102 +1,97 @@
 = Individuals
 :nofooter:
+:note-caption: :information_source:
+:stem:
 
-== Benzene
+== $Benzene$
 
-Name:
+*Name*:
 
 🇬🇧:: Benzene
 🇷🇺:: Бензол
 
-Links:
+*Links*:
 
-- <https://en.wikipedia.org/wiki/Benzene>
+* <https://en.wikipedia.org/wiki/Benzene>
 
 == $DCF$
 
-Name:
+*Name*:
 
 🇬🇧:: Dichlorofluorescein
 🇷🇺:: Дихлорфлуоресцеин
 
-Links:
+*Links*:
 
-- <https://en.wikipedia.org/wiki/Dichlorofluorescein>
+* <https://en.wikipedia.org/wiki/Dichlorofluorescein>
 
 == $PC$
 
-Name:
+*Name*:
 
 🇬🇧:: Phosphatidylcholines
 
-Links:
+*Links*:
 
-- <https://en.wikipedia.org/wiki/Phosphatidylcholine>
+* <https://en.wikipedia.org/wiki/Phosphatidylcholine>
 
 == $PE$
 
-Name:
+*Name*:
 
 🇬🇧:: Phosphatidylethanolamine
 
-Links:
+*Links*:
 
-- <https://en.wikipedia.org/wiki/Phosphatidylethanolamine>
+* <https://en.wikipedia.org/wiki/Phosphatidylethanolamine>
 
 == $PMA$
 
-Name:
+*Name*:
 
 🇬🇧:: Phosphomolybdic acid
 
-Links:
+*Links*:
 
-- <https://en.wikipedia.org/wiki/Phosphomolybdic_acid>
+* <https://en.wikipedia.org/wiki/Phosphomolybdic_acid>
 
-<details><summary>
-
-==# Images
-
-</summary>
-<img src="images/20240320_192739.jpg" alt="PMA" width="256"/>
-</details>
+.*Images*:
+[%collapsible]
+====
+image:images/20240320_192739.jpg[PMA,256]
+====
 
 == $Primuline$
 
-> [!NOTE]
-> Неразрушающий проявитель.
+NOTE: Неразрушающий проявитель.
 
-Name:
+*Name*:
 
 🇬🇧:: Primuline
 🇷🇺:: Примулин
 
-Links:
+*Links*:
 
-- <https://en.wikipedia.org/wiki/Primuline>
+* https://en.wikipedia.org/wiki/Primuline
 
-<details><summary>
-
-==# Images
-
-</summary>
-<img src="images/20240306_133928.jpg" alt="TMSH" width="256"/>
-</details>
+.*Images*:
+[%collapsible]
+====
+image:images/20240306_133928.jpg[Primuline,256]
+====
 
 == $TMSH$
 
-Name:
+*Name*:
 
 🇬🇧:: Trimethylsulfonium hydroxide
 
-Links:
+*Links*:
 
-- <https://pubchem.ncbi.nlm.nih.gov/compound/Trimethylsulfonium-hydroxide>
+* <https://pubchem.ncbi.nlm.nih.gov/compound/Trimethylsulfonium-hydroxide>
 
-<details><summary>
-
-==# Images
-
-</summary>
-<img src="images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg" alt="TMSH" width="256"/>
-</details>
+.*Images*:
+[%collapsible]
+====
+image:images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg[TMSH,256]
+====

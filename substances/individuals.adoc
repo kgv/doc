@@ -58,7 +58,7 @@
 .*Images*:
 [%collapsible]
 ====
-image:images/20240320_192739.jpg[PMA,256]
+image:images/20240320_192739.jpg[PMA,25%]
 ====
 
 == $Primuline$
@@ -77,7 +77,7 @@ NOTE: Неразрушающий проявитель.
 .*Images*:
 [%collapsible]
 ====
-image:images/20240306_133928.jpg[Primuline,256]
+image:images/20240306_133928.jpg[Primuline,25%]
 ====
 
 == $TMSH$
@@ -93,5 +93,5 @@ image:images/20240306_133928.jpg[Primuline,256]
 .*Images*:
 [%collapsible]
 ====
-image:images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg[TMSH,256]
+image:images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg[TMSH,25%]
 ====

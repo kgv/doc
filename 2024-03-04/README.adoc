@@ -4,7 +4,6 @@
 :stem:
 
 :suspension: footnote:disclaimer[Opinions are my own.]
-:hexaneet_2o: link:/substances/mixtures.md#hexaneet_2o
 
 .Веса пустых пробирок, пробирок с веществом, вещества
 [cols="4*",frame=all,grid=all]
@@ -32,3 +31,12 @@
 . ТСХ
     Неподвижная фаза:: $Silica\ gel\ 60$ (Fluca)
     Подвижная фаза:: link:/substances/mixtures.md#hexaneet_2o[🔗] $[Hexane/Et_2O;1/1,v/v]$: 15 $mL$
+
+***
+
+.*Images*:
+[%collapsible]
+====
+image:images/20240304_143855.jpg[,25%]
+image:images/20240304_185108.jpg[,25%]
+====

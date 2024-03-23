@@ -1,12 +1,12 @@
 = Омыление TAG
 :nofooter:
-:stem:
+:stem: latexmath
 :table-caption: TAG
 
 .1
 [cols="2,2*"]
 |===
-|ID|stem:[t_R]|stem:[s]
+|ID|$t_R$|$s$
 
 |Methyl tetradecanoate|13.687|124437.610
 |Hexadecanoic acid, methyl ester|17.506|10781210.085
@@ -31,7 +31,7 @@
 .2
 [cols="2,2*"]
 |===
-|ID|stem:[t_R]|stem:[s]
+|ID|$t_R$|$s$
 
 |Methyl tetradecanoate|13.669|99986.368
 |Hexadecanoic acid, methyl ester|17.481|8516089.579
@@ -56,7 +56,7 @@
 .3
 [cols="2,2*"]
 |===
-|ID|stem:[t_R]|stem:[s]
+|ID|$t_R$|$s$
 
 |Methyl tetradecanoate|13.687|81359.677
 |Hexadecanoic acid, methyl ester|17.506|8737029.223

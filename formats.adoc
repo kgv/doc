@@ -1,8 +1,0 @@
-= Lunaria rediviva
-:nofooter:
-:stem:
-
-^\d{2}\.
-
-- % - 0.0 ±0.0
-- 0.000 ±0.000

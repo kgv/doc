@@ -1,7 +1,6 @@
 = Анализ $PL$ *Lunaria rediviva* методом двумерного TLC на разных пластинках
 :figure-caption: Изображение
 :figures-caption: Изображения
-// :imagesdir: /kgv/doc/raw/main/2024-03-06/images
 :nofooter:
 :table-caption: Таблица
 :table-details: Детали таблицы
@@ -26,7 +25,7 @@
 .. Перерастворить в $[CHCL_3/MeOH; 2/1, v/v]$: 70 ${\mu}L$
 
 .Относительные коэффициенты удерживания
-[cols="5*",frame=all,grid=all]
+[cols="5*", frame=all, grid=all]
 |===
 |ID|Lower|Middle|Upper|RF
 |FL|-|1512|-|1.00

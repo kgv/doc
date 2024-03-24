@@ -1,5 +1,5 @@
 = Book
-:stem: latexmath
+:nofooter:
 
 == Статистическое распределение Бейли
 

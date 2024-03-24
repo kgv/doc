@@ -59,7 +59,7 @@
 |===
 
 .Temp
-[cols="4*",frame=all,grid=all]
+[cols="4*", frame=all, grid=all]
 |===
 2.+|2.4785g
 2.+|2.4670g

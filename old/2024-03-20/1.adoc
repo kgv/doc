@@ -6,13 +6,13 @@
 :ffa: $FFA$
 :hexane_et2o__1_1: $[Hexane/Et_2O;1/1,v/v]$
 :hexane_et2o_acoh__6_4_005: $[Hexane/Et_2O/AcOH;6/4/0.05,v/v/v]$
-:pc: $PC$
-:pe: $PE$
+:pc: _PC_
+:pe: _PE_
 :pl: $PL$
 :pma_etoh_h2o: $[PMA/[EtOH/H_2O;80/20,v/v];100/4,m/m]$
 :tag: $TAG$
 
-= Выделение {pl} **Lunaria rediviva** методом твердофазной экстракции на патронах с силикогелем
+= Выделение {pl} *Lunaria rediviva* методом твердофазной экстракции на патронах с силикогелем
 :nofooter:
 :stem:
 
@@ -24,8 +24,8 @@
 
 . Добавить пробу 1: 500 ${\mu}L$
 +
-.Экстракт суммарных липидов **Lunaria rediviva**, перерастворенный в {chcl3}: 5 $mL$:
-[cols="2*",frame=all,grid=all]
+.Экстракт суммарных липидов *Lunaria rediviva*, перерастворенный в {chcl3}: 5 $mL$:
+[cols="2*", frame=all, grid=all]
 |===
 |ID|Масса, $g$
 |1|0.3960
@@ -35,7 +35,7 @@
 . Упарить досуха
 +
 .Массы пустых пробирок, пробирок с веществом, веществ
-[cols="4*",frame=all,grid=all]
+[cols="4*", frame=all, grid=all]
 |===
 |ID|Пустая пробирка, $g$|Пробирка с веществом, $g$|Вещество, $g$
 |1|1.0117|1.0515|0.0398

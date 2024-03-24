@@ -1,12 +1,12 @@
-= Определение нативных диглицеридов **Lunaria rediviva**
-== Выделение стандарта диглицеридов **Lunaria rediviva**
+= Определение нативных диглицеридов *Lunaria rediviva*
+== Выделение стандарта диглицеридов *Lunaria rediviva*
 :nofooter:
 :stem:
 
 :suspension: footnote:disclaimer[Opinions are my own.]
 
 .Веса пустых пробирок, пробирок с веществом, вещества
-[cols="4*",frame=all,grid=all]
+[cols="4*", frame=all, grid=all]
 |===
 |ID|$m_0,g$|$m_1,g$|$m_2,g$
 

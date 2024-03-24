@@ -25,7 +25,7 @@
 
 * <https://en.wikipedia.org/wiki/Dichlorofluorescein>
 
-== $PC$
+== _PC_
 
 *Name*:
 
@@ -35,7 +35,7 @@
 
 * <https://en.wikipedia.org/wiki/Phosphatidylcholine>
 
-== $PE$
+== _PE_
 
 *Name*:
 

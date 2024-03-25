@@ -9,7 +9,7 @@
 . Проба $TL$: 700 ${\mu}L$
 +
 --
-.Экстракт суммарных липидов *Lunaria rediviva*:
+.Экстракт $TL$ *Lunaria rediviva*:
 [cols="2*", frame=all, grid=all]
 |===
 |ID|$m, g$

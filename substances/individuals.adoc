@@ -25,7 +25,7 @@
 
 * <https://en.wikipedia.org/wiki/Dichlorofluorescein>
 
-== _PC_
+== $PC$
 
 *Name*:
 

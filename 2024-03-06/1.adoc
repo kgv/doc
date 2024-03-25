@@ -57,7 +57,7 @@ image::images/20240306_133704.jpg[]
 . {empty}
 Неподвижная фаза:: $Silica\ gel\ 60$ (Fluka)
 Подвижная фаза:: $[CHCL_3/MeOH/Acetic\ acid/H_2O; 80/9/12/2, v/v/v/v]$: 51,5 $mL$
-. Опрыскать $DCF$
+. Опрыскать $Primuline$
 . Получить 10 проб
 
 .{figures-caption}

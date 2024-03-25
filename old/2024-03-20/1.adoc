@@ -6,7 +6,7 @@
 :ffa: $FFA$
 :hexane_et2o__1_1: $[Hexane/Et_2O;1/1,v/v]$
 :hexane_et2o_acoh__6_4_005: $[Hexane/Et_2O/AcOH;6/4/0.05,v/v/v]$
-:pc: _PC_
+:pc: $PC$
 :pe: _PE_
 :pl: $PL$
 :pma_etoh_h2o: $[PMA/[EtOH/H_2O;80/20,v/v];100/4,m/m]$
@@ -24,7 +24,7 @@
 
 . Добавить пробу 1: 500 ${\mu}L$
 +
-.Экстракт суммарных липидов *Lunaria rediviva*, перерастворенный в {chcl3}: 5 $mL$:
+.Экстракт $TL$ *Lunaria rediviva*, перерастворенный в {chcl3}: 5 $mL$:
 [cols="2*", frame=all, grid=all]
 |===
 |ID|Масса, $g$

@@ -9,7 +9,7 @@
 
 . Добавить пробу 1: 500 ${\mu}L$
 +
-.Экстракт суммарных липидов *Lunaria rediviva*, перерастворенный в {chcl3}: 5 $mL$:
+.Экстракт $TL$ *Lunaria rediviva*, перерастворенный в {chcl3}: 5 $mL$:
 [cols="2*", frame=all, grid=all]
 |===
 |ID|Масса, $g$

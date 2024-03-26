@@ -35,7 +35,7 @@
 
 * <https://en.wikipedia.org/wiki/Phosphatidylcholine>
 
-== _PE_
+== $PE$
 
 *Name*:
 

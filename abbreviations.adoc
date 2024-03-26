@@ -1,88 +1,66 @@
 = Abbreviations
+:figure-caption: Изображение
+:figures-caption: Изображения
 :nofooter:
 :note-caption: :information_source:
 
 == $DCF$
 
-*Name*:
-
 🇬🇧:: Dichlorofluorescein
+* https://en.wikipedia.org/wiki/Dichlorofluorescein
 🇷🇺:: Дихлорфлуоресцеин
-
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Dichlorofluorescein>
 
 == $PC$
 
-*Name*:
-
 🇬🇧:: Phosphatidylcholines
+* https://en.wikipedia.org/wiki/Phosphatidylcholine
 🇷🇺:: Фосфатидилхолины
 
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Phosphatidylcholine>
-
-== _PE_
-
-*Name*:
+== $PE$
 
 🇬🇧:: Phosphatidylethanolamine
+* https://en.wikipedia.org/wiki/Phosphatidylethanolamine
 🇷🇺:: Фосфатидилэтаноламин
-
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Phosphatidylethanolamine>
 
 == $PMA$
 
-*Name*:
-
 🇬🇧:: Phosphomolybdic acid
+* https://en.wikipedia.org/wiki/Phosphomolybdic_acid
 🇷🇺:: Фосфомолибденовая кислота
 
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Phosphomolybdic_acid>
-
-.*Images*:
+.{figures-caption}
 [%collapsible]
 ====
-image:images/20240320_192739.jpg[PMA,25%]
+image:images/20240320_192739.jpg[PMA]
 ====
 
 == $Primuline$
 
 NOTE: Неразрушающий проявитель.
 
-*Name*:
-
 🇬🇧:: Primuline
+* https://en.wikipedia.org/wiki/Primuline
 🇷🇺:: Примулин
 
-*Links*:
-
-* https://en.wikipedia.org/wiki/Primuline
-
-.*Images*:
+.{figures-caption}
 [%collapsible]
 ====
-image:images/20240306_133928.jpg[Primuline,25%]
+image:images/20240306_133928.jpg[Primuline]
 ====
+
+== $SPE$
+
+🇬🇧:: Solid-phase extraction
+* https://en.wikipedia.org/wiki/Solid-phase_extraction
+🇷🇺:: Твердофазная экстракция 
 
 == $TMSH$
 
-*Name*:
-
 🇬🇧:: Trimethylsulfonium hydroxide
+* https://pubchem.ncbi.nlm.nih.gov/compound/Trimethylsulfonium-hydroxide
 
-*Links*:
-
-* <https://pubchem.ncbi.nlm.nih.gov/compound/Trimethylsulfonium-hydroxide>
-
-.*Images*:
+.{figures-caption}
 [%collapsible]
 ====
-image:images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg[TMSH,25%]
+image:images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg[TMSH]
 ====

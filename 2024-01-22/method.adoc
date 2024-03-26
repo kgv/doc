@@ -7,14 +7,14 @@
 
 [cols="4*a", frame=none, grid=none]
 |===
-| image::images/20240123_140508.jpg[]
-| image::images/20240123_131158.jpg[]
-| image::images/20240123_134830.jpg[]
-| image::images/20240123_134838.jpg[]
-| image::images/20240123_134849.jpg[]
-| image::images/20240123_135156.jpg[]
-| image::images/20240123_135849.jpg[]
-| image::images/20240123_140502.jpg[]
+| image:images/20240123_140508.jpg[]
+| image:images/20240123_131158.jpg[]
+| image:images/20240123_134830.jpg[]
+| image:images/20240123_134838.jpg[]
+| image:images/20240123_134849.jpg[]
+| image:images/20240123_135156.jpg[]
+| image:images/20240123_135849.jpg[]
+| image:images/20240123_140502.jpg[]
 |===
 
 [cols="3*a", options="header"]

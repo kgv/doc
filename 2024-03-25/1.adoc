@@ -1,4 +1,4 @@
-= Анализ $PL$ *Lunaria rediviva* методом двумерного TLC на двух пластинках
+= Анализ $PL$ *Lunaria rediviva* методом двумерного TLC на двух различных пластинках
 :figure-caption: Изображение
 :figures-caption: Изображения
 :nofooter:

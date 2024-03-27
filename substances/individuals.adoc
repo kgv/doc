@@ -1,97 +1,22 @@
 = Individuals
+:figure-caption: Изображение
+:figures-caption: Изображения
 :nofooter:
-:note-caption: :information_source:
-:stem:
 
 == $Benzene$
 
-*Name*:
-
 🇬🇧:: Benzene
 🇷🇺:: Бензол
-
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Benzene>
-
-== $DCF$
-
-*Name*:
-
-🇬🇧:: Dichlorofluorescein
-🇷🇺:: Дихлорфлуоресцеин
-
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Dichlorofluorescein>
-
-== $PC$
-
-*Name*:
-
-🇬🇧:: Phosphatidylcholines
-
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Phosphatidylcholine>
-
-== $PE$
-
-*Name*:
-
-🇬🇧:: Phosphatidylethanolamine
-
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Phosphatidylethanolamine>
-
-== $PMA$
-
-*Name*:
-
-🇬🇧:: Phosphomolybdic acid
-
-*Links*:
-
-* <https://en.wikipedia.org/wiki/Phosphomolybdic_acid>
-
-.*Images*:
-[%collapsible]
-====
-image:images/20240320_192739.jpg[PMA,25%]
-====
 
 == $Primuline$
 
 NOTE: Неразрушающий проявитель.
 
-*Name*:
-
 🇬🇧:: Primuline
 🇷🇺:: Примулин
 
-*Links*:
-
-* https://en.wikipedia.org/wiki/Primuline
-
-.*Images*:
+.{figures-caption}
 [%collapsible]
 ====
-image:images/20240306_133928.jpg[Primuline,25%]
-====
-
-== $TMSH$
-
-*Name*:
-
-🇬🇧:: Trimethylsulfonium hydroxide
-
-*Links*:
-
-* <https://pubchem.ncbi.nlm.nih.gov/compound/Trimethylsulfonium-hydroxide>
-
-.*Images*:
-[%collapsible]
-====
-image:images/42f24945-1b88-4039-a8ab-fce95d18d0ba.jpg[TMSH,25%]
+image:images/20240306_133928.jpg[Primuline]
 ====

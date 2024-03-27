@@ -1,6 +1,5 @@
 = Mixtures
 :nofooter:
-:note-caption: :information_source:
 
 == $[CHCl_3/MeOH/H_2O,v/v/v]$
 
@@ -12,7 +11,7 @@
 3. $CHCl_3$
 ====
 
-== $[PMA/[EtOH/H_2O;80/20,v/v];100/4,m/m]$
+== $[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4, m/m]$
 
 NOTE: Разрушающий проявитель.
 

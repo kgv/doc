@@ -1,0 +1,23 @@
+= Abbreviations
+:nofooter:
+:note-caption: :information_source:
+
+== GC
+
+🇬🇧:: Gas chromatography
+🇷🇺:: Газовая хроматография
+
+== HPLC
+
+🇬🇧:: High-performance liquid chromatography
+🇷🇺:: Высокоэффективная жидкостная хроматография
+
+== SPE
+
+🇬🇧:: Solid-phase extraction
+🇷🇺:: Твердофазная экстракция
+
+== TLC
+
+🇬🇧:: Thin-layer chromatography
+🇷🇺:: Тонкослойная хроматография

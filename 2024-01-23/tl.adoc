@@ -1,4 +1,4 @@
-= Total lipids
+= TL
 :nofooter:
 :table-caption: TL
 

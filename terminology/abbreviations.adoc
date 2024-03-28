@@ -12,6 +12,11 @@
 🇬🇧:: High-performance liquid chromatography
 🇷🇺:: Высокоэффективная жидкостная хроматография
 
+== RE
+
+🇬🇧:: Rotary evaporator
+🇷🇺:: Ротационный испаритель
+
 == SPE
 
 🇬🇧:: Solid-phase extraction

@@ -6,14 +6,15 @@
 == Devices
 
 * xref:devices/hplc.adoc[🔗] HPLC
+* xref:devices/rotary_evaporator.adoc[🔗] Rotary evaporator
 
 == Journal
 
-=== 2022.05.12
+=== 2022-05-12
 
 * xref:2022-12-05/2022-12-05-07-10.34756%2FGEOS.2023.17.38740.adoc[🔗] Theses
 
-=== 2023.11.24
+=== 2023-11-24
 
 * xref:24.11.2023/method/en.md[🔗] Silver ion TLC with Quantification by a Gas Chromatography Method
 

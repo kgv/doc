@@ -1,20 +1,5 @@
-:chcl3: $CHCl_3$
-:chcl3_meoh__1_2: $[CHCl_3/MeOH;1/2,v/v]$
-:chcl3_meoh__2_1: $[CHCl_3/MeOH;2/1,v/v]$
-:chcl3_meoh_h2o__65_25_4: $[CHCl_3/MeOH/H_2O;65/25/4,v/v/v]$
-:dag: $DAG$
-:ffa: $FFA$
-:hexane_et2o__1_1: $[Hexane/Et_2O;1/1,v/v]$
-:hexane_et2o_acoh__6_4_005: $[Hexane/Et_2O/AcOH;6/4/0.05,v/v/v]$
-:pc: $PC$
-:pe: $PE$
-:pl: $PL$
-:pma_etoh_h2o: $[PMA/[EtOH/H_2O;80/20,v/v];100/4,m/m]$
-:tag: $TAG$
-
 = Выделение {pl} *Lunaria rediviva* методом SPE на патронах с силикагелем
 :nofooter:
-:stem:
 
 [NOTE]
 ====
@@ -50,7 +35,7 @@
     .. x10 добавить/отбрать {chcl3_meoh__1_2}: 1 $mL$
 . Упарить досуха
 . x20 добавить {chcl3_meoh__2_1}: 200 ${\mu}L$
-. TLC нейтральных липидов:
+. TLC нейтральных липидов
     Неподвижная фаза:: $Silica\ gel\ 60$ (Fluka)
     Подвижная фаза:: {hexane_et2o_acoh__6_4_005}: 10 $mL$
     Стандарты::
@@ -62,7 +47,7 @@
     .. Опрыскать {pma_etoh_h2o}
     .. Греть при температуре 100 ${\degree}C$ до проявления
 
-. TLC полярных липидов:
+. TLC полярных липидов
     Неподвижная фаза:: $Silica\ gel\ 60$ (Fluka)
     Подвижная фаза:: {chcl3_meoh_h2o__65_25_4}: 10 ${\mu}L$
     Стандарты::

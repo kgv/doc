@@ -79,4 +79,4 @@ Lunaria rediviva
 
 === 2024-03-27
 
-. xref:2024-03-27/1.adoc[🔗] Анализ $PL$ *Lunaria rediviva* методом GC
+. xref:2024-03-27/1.adoc[🔗] Анализ $PL$ {lr} методом GC

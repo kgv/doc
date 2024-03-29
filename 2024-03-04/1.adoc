@@ -36,8 +36,8 @@ $m_2$:: Масса пробы
 ====
 
 . Взять 10 пробирок
-. Добавить $TAG$: 50 ${\mu}L$
-. Добавить: *суспензию* footnote:suspension[
+. Внести $TAG$: 50 ${\mu}L$
+. Внести *суспензию* footnote:suspension[
     Объем *суспензии* для 10 $mg$ $TAG$:pass:c,a,r,m,n,v,p[ +]
     pass:c,a,r,m,n,v,p[* *Tris-buffer 7.5*: 5 $mL$]
     ]: 1200 ${\mu}L$

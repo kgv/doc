@@ -15,7 +15,7 @@
 [cols="4*", frame=all, grid=all]
 |===
 |ID|$m_0, g$|$m_1, g$|$m_2, g$
-|$TL_1$|0.9803|1.0178|0.0375 (0.0375 * 1000000 / 500 = 75 $g/L$)
+|$TL_1$|0.9803|1.0178|0.0375
 |===
 .{table-details}
 [%collapsible]
@@ -64,6 +64,16 @@ $m_2$:: Масса пробы
 . Опрыскать $Primuline$
 . Отобрать пробы $A$, $B$, $C$, $D$
 
+.{figures-caption}
+[%collapsible]
+====
+[cols="2*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczPVh3EtRqH-MwznrmrIyah6ZZGeA45L-ICgHCWGvba2dZ696yM9NgKtL5-qziS8LyLPg4gJYZ42JiLduwpiebq52DN-jE2x0TtbJvGMj7Qicz4CYmOCSKYrF4XjlSOBnCDI6pU_v8x_OB3VSlRpJZ3P[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP-DRN_RoY_PLPcBa_FthA2WOabA9vis0a3k39BMKIYamkYXiQNT8-jzDeWSgJchAJ0dPSYdyKyRyf2iiQ71I5gX3XT658YFMSw4wml4ANpmlSmnucLEkuez8Mm8lDngCoi7ZyIc84Y_59h_u23rvNr[]
+|===
+====
+
 == Пробы $A$, $B$, $C$, $D$
 
 . Внести $[CHCl_3/MeOH; 2/1, v/v]$: 1200 ${\mu}L$
@@ -77,6 +87,18 @@ $m_2$:: Масса пробы
 Проба:: все вместе
 . Опрыскать $Primuline$
 . Отобрать пробы $A_0$, $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $D_1$, $D_2$, $D_3$, $D_4$, $D_5$
+
+.{figures-caption}
+[%collapsible]
+====
+[cols="2*", frame=none, grid=none]
+|===
+|image:https://lh3.googleusercontent.com/pw/AP1GczMULo3u1WeLVvi5nGMNpVoyO75_uSlDvJzOZf3t9VRhBvwr2G50ph5gRlqKXwFxqS2_s-XpwOqPkkaIzrGLQOenTQyUBSswyhR8J0ZxMKr1GALY0E9WISup4kmsBqv_C37i2YAGH9kjIvf5pT-Ltbl_[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczM4DZOHoFbzxKRaHsbTtOsb96-8xP6LUfjCNFKvFZAzjwVkBbARUP4zbmptnNapVZmGfBvqLSUhtGfTUUmWXVfj4IkMSFysOEaYDxOkDImuzh91i_JsEEC6AVtZ2ROXTzIq9moB8FZ55eqIEt6FuM7l[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczP472vggwtLh90wbVz4MnbQQxgb6Lf7XneJAuN-VqQwfckm5aiyEymhzPWKOiyG1xLXieYRyOi8gQ5oR51mUWFBATTsGIoLyhRj__AUxAF6aAIxpje6rzh4QKsSGbdVOZXDRYDUggIyxCGsjlesiggf[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPrBFHpy2quFwRWPTuYLoINw2McSp6lVocDPQsjEyeS7LpgTH2l7d2du8JuWiLwhp6KaWEW8zdwNevoDwUKS6jcsgN3PeHdS0hcCuuuHbvTx_6k9zsdgD5omJt6Cj50ggM-GYpnXtcwW8NqGeyOP6bo[]
+|===
+====
 
 == Пробы $A_0$, $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $D_1$, $D_2$, $D_3$, $D_4$, $D_5$
 

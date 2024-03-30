@@ -1,4 +1,4 @@
-= Идентификация проб $PL$ *Lunaria rediviva* методом HPLC
+= Построение калибровочных кривых HPLC для $PL$
 :nofooter:
 :table-caption: Таблица
 :table-details: Детали таблицы

@@ -37,13 +37,13 @@ $m_2$:: Масса пробы
 
 . Упарить досуха в токе $Ar$
 +
+--
 .Масса пробы
 [cols="4*", frame=all, grid=all]
 |===
 |ID|$m_0, g$|$m_1, g$|$m_2, g$
 |$PL$|1.0951|1.1013|0,0062
 |===
-+
 .{table-details}
 [%collapsible]
 ====
@@ -51,6 +51,7 @@ $m_0$:: Масса пустой пробирки
 $m_1$:: Масса пробирки с пробой
 $m_2$:: Масса пробы
 ====
+--
 . Внести $[CHCl_3/MeOH; 2/1, v/v]$: 200 ${\mu}L$
 . TLC (первое измерение)
 Неподвижная фаза:: $Silica\ gel\ 60$ (Merck): 
@@ -58,19 +59,19 @@ $m_2$:: Масса пробы
 . Опрыскать $Primuline$
 . Отобрать пробы $A$, $B$, $C$, $D$
 
-== Пробы $A$, $B$, $C$, $D$
-
 .{figures-caption}
 [%collapsible]
 ====
 [cols="2*", frame=none, grid=none]
 |===
-|image:images/20240327_173700.jpg[]
-|image:images/20240327_173906.jpg[]
-|image:images/20240326_205633.jpg[]
-|image:images/b7bb559e-a637-48cd-8782-69c1d1ebb517.jpg[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOMbp-ULQLB66AoVvzEYqdMGBrqvjuc5bXNiIVYb0Foi0Gjsbzvdlf_lqM3W1kHsnDMwZltKY73Qul_TN0vn1UmnLXpl1M-mJYi-6gq-QXDD9eV7F4_eF2-g2BvgcDQen3ET3F-VTPTZFrHOAeES4S0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPJ1o7YqNc5-EeQB4Oq0jrTTwdO1mFzXeSozcMi-biEuGGbMoUpdAUGiKLSK3Mju-fd_81jVG93lpmsnDDnwasOg7ntyGL4DqWqC5krR3a4xBizMieHa3Ca-0EH8YkdVUM56l72ekF-lvR9_alo3S3O[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNKaAoYcvBdeCX3CYzHoSnQY6Crc7KbTPsTQKveDNfB0iuobWxxkjAFZ0W_TJmYQsEGUTS2lajYiElQQhR2e37mGw5IMCJT5ifzGowXmDrVjsNd8gVKJJPom1b-wgrMqZoSJJXaSWCMOnzUivm_cF-3[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPO7vHzcJXLQoFwL_dnG7xU0MwF0laS1WUDQVRW8mvQCbFq5Y1cslBCoLXbjJnafXMhkYMY4enP1LTA6_g_-M5qcKba-fn8ZkjFNvIrbTy18UhzrdMTOYt0G23lDCaYchGKJb7Ff6l_xKpF6sWC-X_s[]
 |===
 ====
+
+== Пробы $A$, $B$, $C$, $D$
 
 . Внести $[CHCl_3/MeOH; 2/1, v/v]$: 1500 ${\mu}L$
 . Центрифугировать 3 $min$, 2300 $g$
@@ -84,17 +85,17 @@ $m_2$:: Масса пробы
 . Опрыскать $Primuline$
 . Отобрать пробы $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$, $D_1$, $D_2$
 
-== Пробы $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$, $D_1$, $D_2$
-
 .{figures-caption}
 [%collapsible]
 ====
 [cols="2*", frame=none, grid=none]
 |===
-|image:images/20240327_201327.jpg[]
-|image:images/20240327_201648.jpg[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNM2lzoBylFSdOD17MzVpvWDhffvgOZ6VYZs2otGfXi2zA3A1pXW6FBCVqw7wmO_KujMV9n7OgwLJMb7tAJe4rylqsEE20vEv1jM268U_qQtzk2EJKdco4vdVrYUOT2GAJEv99Vu6XUVzkRk61cEBnY[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNAexVclqwNwuPrKtKDu6M4-yxdrU_u41ZniA7IjXintJWh6Q8LQ7bhK4RjHr60h1R4vebqXglto0TwlUAYPSA4Hf7YnwedgNNW20YFvn1zwdcFPK-4bxMzvYEHU9iklcyBdY-3n-uLgzGwZm3sj6zG[]
 |===
 ====
+
+== Пробы $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$, $D_1$, $D_2$
 
 . Внести $[H_2SO_4/MeOH; 1\%]$: 200 ${\mu}L$
 . Греть 30 $min$, 55 ${\degree}C$

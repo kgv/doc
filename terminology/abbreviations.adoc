@@ -1,6 +1,5 @@
 = Abbreviations
 :nofooter:
-:note-caption: :information_source:
 
 == GC
 

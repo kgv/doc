@@ -55,21 +55,21 @@ $m_2$:: Масса пробы
 * $DAG$: 3 ${\mu}L$
 * $TAG$: 3 ${\mu}L$
 * $Sterin$: 3 ${\mu}L$
-. Опрыскать link:../substances/mixtures.adoc#pmaetohh_2o8020vv1004mm[🔗] $[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4 ,m/m]$
+. Опрыскать $[PMA/[EtOH/H_2O; 80/20, v/v]; 100/4, m/m]$
 . Греть при температуре 100 ${\degree}C$ до проявления
-
-== Пробы $PL_1$ - $PL_10$
 
 .{figures-caption}
 [%collapsible]
 ====
 [cols="2*", frame=none, grid=none]
 |===
-|image:images/20240320_151036.jpg[]
-|image:images/20240320_161231.jpg[]
-2.+|image:images/4c3a37a3-ed47-40ca-bdf7-71e1f46b43f7.jpg[TLC]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNj8Lg5aE5_xYZAXWg8kGLveBj4kf-XcndWA9T1tsZNU9vLAxabJmgFz4hz5WrHG6_Gu0PEolL1Sc35LyYNH0rh_7JIs14DbiDDSbj5rCtBsw9WR1L6W54rOamdcbCFXOV3kXxZf5Qkt62RD1pu-qTC[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNjxprn-vUTSwbhdYrkzYuK93Sf37KIx1bjAZzUru2_z_qeNGShBf4ANRmMP-zfAGaPTSs8gjLloJ53qwvuGSp9gn_3GgsCPQV43fgCimUMts-T6J4rbhVGT5o-Qx2LpmxrqZPkEXnMqaG7Juw0Jj4P[]
+2.+|image:https://lh3.googleusercontent.com/pw/AP1GczPXitZBGgNQxCMfq0w6Ml7TvuagWXUCzGDqWm72LW3TKxRFM-1wwIyFOlmmTZzF88YR6RK2SfK_LOxiKv0MOuEmmq0cP2Ak4fTxzFWs33q0QFJJtippapZiHnsI-Wt6f9MdxhkMkCJUkhwgN9PeY4p7[]
 |===
 ====
+
+== Пробы $PL_1$ - $PL_10$
 
 . Проба 10 ${\mu}L$
 . TLC полярных липидов

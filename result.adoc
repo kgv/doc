@@ -4,7 +4,7 @@
 :table-caption: TAG
 
 .1
-[cols="3*"]
+[cols="3*^"]
 |===
 |ID|stem:[t_R]|stem:[s]
 

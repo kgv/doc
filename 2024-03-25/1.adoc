@@ -14,17 +14,17 @@
 Проба:: каждая отдельно
 . Отобрать пробы $PL_{21}$, $PL_{22}$, $PL_{31}$, $PL_{32}$
 
-== Пробы $PL_{21}$, $PL_{22}$, $PL_{31}$, $PL_{32}$
-
 .{figures-caption}
 [%collapsible]
 ====
 [cols="2*", frame=none, grid=none]
 |===
-|image:images/20240325_132500.jpg[]
-|image:images/20240325_155542.jpg[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPxZ0Fmbyt4q7bKWYPCDoZ3karCtSQX3NRp4cNovsivrEZO7UmCpTRKk7anBzj_dDRS9c4guEIwMv0n2Suk3RiJYYwmGWRXsfw1z4uTEMDtWWTEmzaOgZ3YATVaSx7bLkQhny43kg8NkKOUVm_aoWr4[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNUv40w83x5YzFhNE0B8JsIIvHmi_xjBU40ixljfON451LlkVSZPJ_LjjXZphZphnAff_9eMEhbZ-drtjzVx_VlRNcVAtsMoTqulEXhncqGhjm848AfnhzQDJi0XvxjOeOIqqHyOeG4zlGRpWWEf0pG[]
 |===
 ====
+
+== Пробы $PL_{21}$, $PL_{22}$, $PL_{31}$, $PL_{32}$
 
 Смыть:
 
@@ -68,18 +68,18 @@ $m_2$:: Масса пробы
 . Опрыскать $Primuline$
 . Отобрать пробы $A$, $B$, $C$, $D$
 
-== Пробы $A$, $B$, $C$, $D$
-
 .{figures-caption}
 [%collapsible]
 ====
-[cols="2*", frame=none, grid=none]
+[cols="3*", frame=none, grid=none]
 |===
-|image:images/20240325_170815.jpg[]
-|image:images/20240325_170913.jpg[]
-2.+|image:images/75454cfe-1e31-4a3a-be4a-0c47cbf5fd5e.jpg[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczPsTkpXwn_INV2-NqckyKEkv6437qkkv1a8pAvcMbSHFbQMSorK4mcj_8_lm9ReLYshFV40GHYzlkl5hgcrwZvr3kxGCSaAPnPEA1934YbqoKQnxLQfTIY3B38dtTaTv_8F1e92gQN68FgOC47fz0jD[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMAfA5C_81iilS5gkMplJttRX3M_VHTLySFKoN1efDUANXzGl8ZeW-X16c44FRlSnsFA25rmBMrFMTU7fgYcuJiprxTeanpilYMNijcA35ZfwgZSIFtQZeFamLOPbrJBjbA5rvOWFTD9MTwM4Xj5KKw[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMQzLT3kxVDz7V54Ju_m3zm5T25Vzfjzgr8khpT2CevUfz72ywKURIn1S6vMH-xFqHCOnn23Cf65LSA09T4xhmcsBoYZZfhCxNVz0uTMtCwucAmSIWsdqp2ZeCC92EDopT_v_gx0yy3ykqto8cEUVyj[]
 |===
 ====
+
+== Пробы $A$, $B$, $C$, $D$
 
 .Относительные коэффициенты удерживания
 [cols="5*", frame=all, grid=all]
@@ -122,12 +122,11 @@ RF (Retention Factor):: Относительный коэффициент уде
 .{figures-caption}
 [%collapsible]
 ====
-[cols="3*", frame=none, grid=none]
+[cols="2*", frame=none, grid=none]
 |===
-|image:images/20240325_204830.jpg[]
-|image:images/20240325_205251.jpg[]
-|image:images/20240325_214615.jpg[]
-3.+|image:images/81c54f68-39c5-4688-b12c-0e9476d48b92.jpg[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczMrSM-kiabsEduEiT5vTcYPAAHIlLIxeZdVnHVFjUT-E8FNki07TWS-llLt3bhOUBlaMiOM3L-N2Z9QoEKef0mJ1Eu8KtsVv2jXdpwFry230MlgJ1vZzlHg7PY3O2id6Kv71jH9V_JWFdZ1UY7NT-oE[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczORuHNawMmMd04pFsehSxzmKTW60SJMVj1zwAckV9CyCR2CEA8nkJIk96ZLXM_3wc3MAWbedrNQIOO3YMcMMqY8_FjBDaPvJHph_GyezODZZkmfYsgCowZPDl8ZUn3bwRph4MYqLOR07-cFG4DgAfSk[]
+2.+|image:https://lh3.googleusercontent.com/pw/AP1GczNlmxc34hGvCXSoEna8tynN2jWNbJzzTPbS8vnJiDv5u0QWj9oFHzlbLhek9zRIBwb2K7YsKqmbo3vP2wrKgXFMAkIL93GVPhq4eW2k979SNn02_Hz02CE4IF6oCmGizah9z81KGPmwVaAM5kWrB4AB[]
 |===
 ====
 

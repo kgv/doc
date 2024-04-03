@@ -86,13 +86,15 @@ $m_2$:: Масса пробы
 Проба:: все вместе
 . Опрыскать $Primuline$
 . Отобрать пробы $A_1$, $A_2$, $B_1$, $C_1$, $D_1$
+
 .{figures-caption}
 [%collapsible]
 ====
-[cols="2*", frame=none, grid=none]
+[cols="3*", frame=none, grid=none]
 |===
-|image:[]
-|image:[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczO6BsMYafmu5onHkv7bYQL3Htek1aWOukuPjRyUBXJhYobJBIPmYxpICBb33lRdfbch8cCRghf57MOZrUg9OD9Tway6LpRfNK92eJcP7ckwjP-iB17iSEaRq1QulU1UalNQYTbYpnEU4tz0xloRN4rC[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczOYXb8k6JmZ3UMv6Qbkj-Wv9fGH4L1U17PNQgt143_W3ZwUjuCQAK5g6q2ilka6K5qHr8RBRGVNlNRUNg7NuGm9nNtFIkLJjN6JbDgqz1kWW7ylUIbM4jZXXeBgg46inqnJ75g-40WQGpw7XUYjLre0[]
+|image:https://lh3.googleusercontent.com/pw/AP1GczNvruH4DU5A_yyeowxo-5y_WPbKhKfXfaI7dpG5nTxIMmbmaF9R-xLG_YZXps5tbTYnCgkfrJL9Td7HiYY1WVSJNWLjc50KuuskYRxVgHLyVSuAGZ3CVzdMCL78RonFyjluqK-3f4rGodfYzEqZg2K-[]
 |===
 ====
 

@@ -1,4 +1,4 @@
-= Выделение $PL$ *Lunaria rediviva* методом SPE на патронах с силикагелем (2 из 3 повторностей)
+= Выделение $PL$ *Lunaria rediviva* методом SPE на патронах с силикагелем (1 из 3 повторностей)
 :figure-caption: Изображение
 :figures-caption: Изображения
 :nofooter:

@@ -32,7 +32,7 @@ label = "18:0"
 
 [[fatty_acids]]
 data = { mag2 = 0.0, dag1223 = 0.0, tag123 = 124163.714 }
-description = "16:3"
+description = "7,10,13-16:3"
 formula = "H28C17O2"
 label = "16:3"
 

@@ -24,7 +24,7 @@ $Y\sim \mathrm{Bin}(n, p)$
 
 *Функция вероятности*:
 
-$p_Y(k)\equiv \mathbb{P}(Y = k) = \binom{n}{k}p^kq^{n-k}, k = 0, \ldots, n$
+$p_Y(k)\equiv \mathbb{P}(Y = k) = \binom{n}{k} p^k q^{n-k}, k = 0, \ldots, n$
 
 Где *биномиальный коэффициент*:
 

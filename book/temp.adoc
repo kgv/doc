@@ -1,0 +1,71 @@
+[source,math]
+----
+\begin{array}{l}
+  [^1S^2S^3S]_{PSC/G} &=& 6 \frac{[^1S]F_{S_1}[^2S]F_{S_2}[^3S]F_{S_3}}{[S]^3} [S_3]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 0\\
+    66\% < [S] < 100\%: & 6 \frac{[^1S]F_{S_1}[^2S]F_{S_2}[^3S]F_{S_3}}{[S]^3} (3[S] - 2)
+  \end{cases}\\
+  [^1S^1S^2S]_{PSC/G} &=& 2 \frac{([^1S]F_{S_1})^2[^2S]F_{S_2}}{[S]^3} [S_3]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 0\\
+    66\% < [S] < 100\%: & 2 \frac{([^1S]F_{S_1})^2[^2S]F_{S_2}}{[S]^3} (3[S] - 2)
+  \end{cases}\\
+  [^1S^2S^1S]_{PSC/G} &=& \frac{([^1S]F_{S_1})^2[^2S]F_{S_2}}{[S]^3} [S_3]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 0\\
+    66\% < [S] < 100\%: & \frac{([^1S]F_{S_1})^2[^2S]F_{S_2}}{[S]^3} (3[S] - 2)
+  \end{cases}\\
+  [^1S^1S^1S]_{PSC/G} &=& \frac{([^1S]F_{S_1})^3}{[S]^3} [S_3]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 0\\
+    66\% < [S] < 100\%: & \frac{([^1S]F_{S_1})^3}{[S]^3} (3[S] - 2)
+  \end{cases}
+\end{array}
+----
+
+[source,math]
+----
+\begin{array}{l}
+  [^1S^2S^1U]_{PSC/G} &=& 2 \frac{[^1S]F_{S_1}[^1U]F_{U_1}[^2S]F_{S_2}}{[S]^2[U]} [S_2U]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & \frac92 \frac{[^1S]F_{S_1}[^1U]F_{U_1}[^2S]F_{S_2}}{[U]}\\
+    66\% < [S] < 100\%: & 6 \frac{[^1S]F_{S_1}[^1U]F_{U_1}[^2S]F_{S_2}}{[S]^2}
+  \end{cases}\\
+  [^1S^1U^2S]_{PSC/G} &=& \frac{[^1S]F_{S_1}[^1U]F_{U_1}[^2S]F_{S_2}}{[S]^2[U]} [S_2U]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & \frac92 \frac{[^1S]F_{S_1}[^1U]F_{U_1}[^2S]F_{S_2}}{[U]}\\
+    66\% < [S] < 100\%: & 6 \frac{[^1S]F_{S_1}[^1U]F_{U_1}[^2S]F_{S_2}}{[S]^2}
+  \end{cases}\\
+  [^1S^1U^1S]_{PSC/G} &=& \frac{[^1S]F_{S_1}^2[^1U]F_{U_1}}{[S]^2[U]} [S_2U]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & \frac94 \frac{[^1S]F_{S_1}^2[^1U]F_{U_1}}{[U]}\\
+    66\% < [S] < 100\%: & 3 \frac{[^1S]F_{S_1}^2[^1U]F_{U_1}}{[S]^2}
+  \end{cases}
+\end{array}
+----
+
+[source,math]
+----
+\begin{array}{l}
+  [^1S^1U^2U]_{PSC/G} &=& 4 \frac{[^1U]F_{U_1}[^2U]F_{U_2}[^3U]F_{U_3}}{[U]^3} [SU_2]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 6 \frac{[^1U]F_{U_1}[^2U]F_{U_2}[^3U]F_{U_3}}{[U]^2} (3[U] - 1)\\
+    66\% < [S] < 100\%: & 0
+  \end{cases}\\
+  [^1S^1U^1U]_{PSC/G} &=& 2 \frac{[^1U]F_{U_1}[^2U]F_{U_2}^2}{[U]^2} [SU_2]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 3 \frac{[^1U]F_{U_1}[^2U]F_{U_2}^2}{[U]^2} (3[U] - 1)\\
+    66\% < [S] < 100\%: & 0
+  \end{cases}
+\end{array}
+----
+
+[source,math]
+----
+\begin{array}{l}
+  [^1U^2U^3U]_{PSC/G} &=& 6 \frac{[^1U]F_{U_1}[^2U]F_{U_2}[^3U]F_{U_3}}{[U]^3} [U_3]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 6 \frac{[^1U]F_{U_1}[^2U]F_{U_2}[^3U]F_{U_3}}{[U]^3} (\frac32[U] - \frac12)^2\\
+    66\% < [S] < 100\%: & 0
+  \end{cases}\\
+  [^1U^2U_2]_{PSC/G}  &=& 3 \frac{[^1U]F_{U_1}[^2U]F_{U_2}^2}{[U]^3} [U_3]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & 3 \frac{[^1U]F_{U_1}[^2U]F_{U_2}^2}{[U]^3} (\frac32[U] - \frac12)^2\\
+    66\% < [S] < 100\%: & 0
+  \end{cases}\\
+  [^1U_3]_{PSC/G}     &=& \frac{[^1U]F_{U_1}^3}{[U]^3} [U_3]_{TC/G} &=& \begin{cases}
+    0\% < [S] < 66\%:   & \frac{[^1U]F_{U_1}^3}{[U]^3} (\frac32[U] - \frac12)^2\\
+    66\% < [S] < 100\%: & 0
+  \end{cases}
+\end{array}
+----
